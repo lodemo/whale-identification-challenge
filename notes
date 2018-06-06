@@ -1,0 +1,10 @@
+
+
+network architecture:
+- face recognition networks: facenet, vggnet
+- frameworks: mxnet, keras?
+
+data augmentation:
+- https://github.com/aleju/imgaug
+
+
